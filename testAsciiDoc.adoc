@@ -1,0 +1,9 @@
+## Testing AsciiDoc
+
+This page uses the **.adoc** extension. Since Asciidoctor can render Markdown it should work.
+
+*   four
+*   five
+*   six
+
+> Testing, testing.
