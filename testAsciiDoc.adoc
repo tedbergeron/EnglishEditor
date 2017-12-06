@@ -7,3 +7,17 @@ This page uses the **.adoc** extension. Since Asciidoctor can render Markdown it
 *   six
 
 > Testing, testing.
+
+=== Test AsciiDoc Heading H3
+
+TIP: include a tip
+
+.An Example
+
+[quote, Ted]
+
+____
+
+this is great!
+
+____
