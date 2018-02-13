@@ -21,3 +21,5 @@ ____
 this is great!
 
 ____
+
+Test link link:message.md[MESSAGE.MD] file.
